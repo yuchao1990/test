@@ -1,0 +1,3734 @@
+
+ 
+记录时间：2019-07-16 01:00:00,158 
+线程ID:[4] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 01:00:00
+ 
+
+ 
+记录时间：2019-07-16 01:00:45,240 
+线程ID:[4] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 01:00:45
+ 
+
+ 
+记录时间：2019-07-16 09:12:20,050 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 09:12:20
+ 
+
+ 
+记录时间：2019-07-16 09:13:07,278 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 09:13:07
+ 
+
+ 
+记录时间：2019-07-16 09:44:30,709 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 09:44:30
+ 
+
+ 
+记录时间：2019-07-16 09:45:13,859 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 09:45:13
+ 
+
+ 
+记录时间：2019-07-16 10:07:31,374 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 10:07:31
+ 
+
+ 
+记录时间：2019-07-16 10:08:17,117 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 10:08:17
+ 
+
+ 
+记录时间：2019-07-16 10:10:13,323 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 10:10:13
+ 
+
+ 
+记录时间：2019-07-16 10:10:55,686 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 10:10:55
+ 
+
+ 
+记录时间：2019-07-16 11:38:04,242 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 11:38:04
+ 
+
+ 
+记录时间：2019-07-16 11:38:52,591 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 11:38:52
+ 
+
+ 
+记录时间：2019-07-16 11:39:10,719 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 11:39:10
+ 
+
+ 
+记录时间：2019-07-16 11:39:55,482 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 11:39:55
+ 
+
+ 
+记录时间：2019-07-16 13:51:08,978 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 13:51:08
+ 
+
+ 
+记录时间：2019-07-16 13:52:59,430 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 13:52:59
+ 
+
+ 
+记录时间：2019-07-16 13:55:46,257 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 13:55:46
+ 
+
+ 
+记录时间：2019-07-16 13:59:47,191 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 13:59:47
+ 
+
+ 
+记录时间：2019-07-16 14:05:11,597 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:05:11
+ 
+
+ 
+记录时间：2019-07-16 14:05:25,971 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:05:25
+ 
+
+ 
+记录时间：2019-07-16 14:06:27,744 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:06:27
+ 
+
+ 
+记录时间：2019-07-16 14:14:06,457 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:14:06
+ 
+
+ 
+记录时间：2019-07-16 14:15:39,427 
+线程ID:[9] 
+日志级别：  DEBUG 
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：System.Data.Entity.Core.EntityException: The underlying provider failed on Open. ---> System.Transactions.TransactionException: 此操作对该事务的状态无效。 ---> System.TimeoutException: 事务超时
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Transactions.TransactionState.EnlistPromotableSinglePhase(InternalTransaction tx, IPromotableSinglePhaseNotification promotableSinglePhaseNotification, Transaction atomicTransaction, Guid promoterType)
+   在 System.Transactions.Transaction.EnlistPromotableSinglePhase(IPromotableSinglePhaseNotification promotableSinglePhaseNotification, Guid promoterType)
+   在 System.Transactions.Transaction.EnlistPromotableSinglePhase(IPromotableSinglePhaseNotification promotableSinglePhaseNotification)
+   在 System.Data.SqlClient.SqlInternalConnection.EnlistNonNull(Transaction tx)
+   在 System.Data.SqlClient.SqlInternalConnection.Enlist(Transaction tx)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.Activate(Transaction transaction)
+   在 System.Data.ProviderBase.DbConnectionInternal.ActivateConnection(Transaction transaction)
+   在 System.Data.ProviderBase.DbConnectionPool.PrepareConnection(DbConnection owningObject, DbConnectionInternal obj, Transaction transaction)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.<Open>b__36(DbConnection t, DbConnectionInterceptionContext c)
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.<Open>b__2()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute(Action operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass59.<ExecuteStoreCommand>b__57()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteStoreCommand(TransactionalBehavior transactionalBehavior, String commandText, Object[] parameters)
+   在 System.Data.Entity.Internal.InternalContext.ExecuteSqlCommand(TransactionalBehavior transactionalBehavior, String sql, Object[] parameters)
+   在 System.Data.Entity.Database.ExecuteSqlCommand(TransactionalBehavior transactionalBehavior, String sql, Object[] parameters)
+   在 System.Data.Entity.Database.ExecuteSqlCommand(String sql, Object[] parameters)
+   在 UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor.<>c__DisplayClass1_1.<Execute>b__0(PowerQueryModel m) 位置 D:\project\jxSVN\01PersonalArea\于超\demo\UnderPowerMonitorWindowsService\UnderPowerMonitorWindowsService\ComputeUnderPowerMonitor.cs:行号 116
+   在 System.Collections.Generic.List`1.ForEach(Action`1 action)
+   在 UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor.Execute(DateTime day) 位置 D:\project\jxSVN\01PersonalArea\于超\demo\UnderPowerMonitorWindowsService\UnderPowerMonitorWindowsService\ComputeUnderPowerMonitor.cs:行号 46
+ 
+
+ 
+记录时间：2019-07-16 14:18:38,520 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:18:38
+ 
+
+ 
+记录时间：2019-07-16 14:20:01,648 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:20:01
+ 
+
+ 
+记录时间：2019-07-16 14:20:01,648 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:20:01
+ 
+
+ 
+记录时间：2019-07-16 14:21:16,769 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:21:16
+ 
+
+ 
+记录时间：2019-07-16 14:21:16,770 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:21:16
+ 
+
+ 
+记录时间：2019-07-16 14:22:34,845 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:22:34
+ 
+
+ 
+记录时间：2019-07-16 14:22:34,845 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:22:34
+ 
+
+ 
+记录时间：2019-07-16 14:23:52,909 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:23:52
+ 
+
+ 
+记录时间：2019-07-16 14:23:52,911 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:23:52
+ 
+
+ 
+记录时间：2019-07-16 14:24:21,155 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:24:21
+ 
+
+ 
+记录时间：2019-07-16 14:24:21,155 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:24:21
+ 
+
+ 
+记录时间：2019-07-16 14:24:46,365 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:24:46
+ 
+
+ 
+记录时间：2019-07-16 14:24:46,366 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:24:46
+ 
+
+ 
+记录时间：2019-07-16 14:25:14,364 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:25:14
+ 
+
+ 
+记录时间：2019-07-16 14:25:14,364 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:25:14
+ 
+
+ 
+记录时间：2019-07-16 14:25:41,545 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:25:41
+ 
+
+ 
+记录时间：2019-07-16 14:25:41,546 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:25:41
+ 
+
+ 
+记录时间：2019-07-16 14:26:10,617 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:26:10
+ 
+
+ 
+记录时间：2019-07-16 14:26:10,618 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:26:10
+ 
+
+ 
+记录时间：2019-07-16 14:26:39,095 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:26:39
+ 
+
+ 
+记录时间：2019-07-16 14:26:39,095 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:26:39
+ 
+
+ 
+记录时间：2019-07-16 14:27:08,131 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:27:08
+ 
+
+ 
+记录时间：2019-07-16 14:27:08,131 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:27:08
+ 
+
+ 
+记录时间：2019-07-16 14:30:15,717 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:30:15
+ 
+
+ 
+记录时间：2019-07-16 14:30:37,569 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:30:37
+ 
+
+ 
+记录时间：2019-07-16 14:31:55,670 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:31:55
+ 
+
+ 
+记录时间：2019-07-16 14:31:55,671 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:31:55
+ 
+
+ 
+记录时间：2019-07-16 14:33:10,445 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:33:10
+ 
+
+ 
+记录时间：2019-07-16 14:33:10,446 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:33:10
+ 
+
+ 
+记录时间：2019-07-16 14:34:22,806 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:34:22
+ 
+
+ 
+记录时间：2019-07-16 14:34:22,806 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:34:22
+ 
+
+ 
+记录时间：2019-07-16 14:35:30,608 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:35:30
+ 
+
+ 
+记录时间：2019-07-16 14:35:30,608 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:35:30
+ 
+
+ 
+记录时间：2019-07-16 14:35:55,824 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:35:55
+ 
+
+ 
+记录时间：2019-07-16 14:35:55,825 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:35:55
+ 
+
+ 
+记录时间：2019-07-16 14:36:19,548 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:36:19
+ 
+
+ 
+记录时间：2019-07-16 14:36:19,549 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:36:19
+ 
+
+ 
+记录时间：2019-07-16 14:50:54,232 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:50:54
+ 
+
+ 
+记录时间：2019-07-16 14:51:03,360 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:51:03
+ 
+
+ 
+记录时间：2019-07-16 14:51:03,361 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:51:03
+ 
+
+ 
+记录时间：2019-07-16 14:51:09,915 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:51:09
+ 
+
+ 
+记录时间：2019-07-16 14:51:09,915 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:51:09
+ 
+
+ 
+记录时间：2019-07-16 14:51:16,711 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:51:16
+ 
+
+ 
+记录时间：2019-07-16 14:51:16,711 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:51:16
+ 
+
+ 
+记录时间：2019-07-16 14:51:23,097 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:51:23
+ 
+
+ 
+记录时间：2019-07-16 14:51:23,097 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:51:23
+ 
+
+ 
+记录时间：2019-07-16 14:51:29,201 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:51:29
+ 
+
+ 
+记录时间：2019-07-16 14:51:29,201 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:51:29
+ 
+
+ 
+记录时间：2019-07-16 14:51:35,911 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:51:35
+ 
+
+ 
+记录时间：2019-07-16 14:51:35,911 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:51:35
+ 
+
+ 
+记录时间：2019-07-16 14:51:42,637 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:51:42
+ 
+
+ 
+记录时间：2019-07-16 14:51:42,637 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:51:42
+ 
+
+ 
+记录时间：2019-07-16 14:51:48,788 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:51:48
+ 
+
+ 
+记录时间：2019-07-16 14:51:48,788 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:51:48
+ 
+
+ 
+记录时间：2019-07-16 14:51:55,062 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:51:55
+ 
+
+ 
+记录时间：2019-07-16 14:51:55,063 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:51:55
+ 
+
+ 
+记录时间：2019-07-16 14:52:01,204 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:52:01
+ 
+
+ 
+记录时间：2019-07-16 14:52:01,204 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:52:01
+ 
+
+ 
+记录时间：2019-07-16 14:52:07,404 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:52:07
+ 
+
+ 
+记录时间：2019-07-16 14:52:07,404 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:52:07
+ 
+
+ 
+记录时间：2019-07-16 14:52:13,516 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:52:13
+ 
+
+ 
+记录时间：2019-07-16 14:52:13,516 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:52:13
+ 
+
+ 
+记录时间：2019-07-16 14:52:20,117 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:52:20
+ 
+
+ 
+记录时间：2019-07-16 14:52:20,117 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:52:20
+ 
+
+ 
+记录时间：2019-07-16 14:52:27,367 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:52:27
+ 
+
+ 
+记录时间：2019-07-16 14:52:27,368 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:52:27
+ 
+
+ 
+记录时间：2019-07-16 14:52:35,197 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:52:35
+ 
+
+ 
+记录时间：2019-07-16 14:52:35,197 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:52:35
+ 
+
+ 
+记录时间：2019-07-16 14:52:43,259 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:52:43
+ 
+
+ 
+记录时间：2019-07-16 14:52:43,260 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:52:43
+ 
+
+ 
+记录时间：2019-07-16 14:52:51,747 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:52:51
+ 
+
+ 
+记录时间：2019-07-16 14:52:51,747 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:52:51
+ 
+
+ 
+记录时间：2019-07-16 14:52:59,447 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:52:59
+ 
+
+ 
+记录时间：2019-07-16 14:52:59,448 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:52:59
+ 
+
+ 
+记录时间：2019-07-16 14:53:07,387 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:53:07
+ 
+
+ 
+记录时间：2019-07-16 14:53:07,388 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:53:07
+ 
+
+ 
+记录时间：2019-07-16 14:53:15,079 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:53:15
+ 
+
+ 
+记录时间：2019-07-16 14:53:15,079 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:53:15
+ 
+
+ 
+记录时间：2019-07-16 14:53:22,786 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:53:22
+ 
+
+ 
+记录时间：2019-07-16 14:53:22,787 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:53:22
+ 
+
+ 
+记录时间：2019-07-16 14:53:30,982 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:53:30
+ 
+
+ 
+记录时间：2019-07-16 14:53:30,982 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:53:30
+ 
+
+ 
+记录时间：2019-07-16 14:53:38,767 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:53:38
+ 
+
+ 
+记录时间：2019-07-16 14:53:38,768 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:53:38
+ 
+
+ 
+记录时间：2019-07-16 14:53:46,720 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:53:46
+ 
+
+ 
+记录时间：2019-07-16 14:53:46,720 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:53:46
+ 
+
+ 
+记录时间：2019-07-16 14:53:55,119 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:53:55
+ 
+
+ 
+记录时间：2019-07-16 14:53:55,120 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:53:55
+ 
+
+ 
+记录时间：2019-07-16 14:54:04,388 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:54:04
+ 
+
+ 
+记录时间：2019-07-16 14:54:04,388 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:54:04
+ 
+
+ 
+记录时间：2019-07-16 14:54:11,690 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:54:11
+ 
+
+ 
+记录时间：2019-07-16 14:54:11,690 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:54:11
+ 
+
+ 
+记录时间：2019-07-16 14:54:19,328 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:54:19
+ 
+
+ 
+记录时间：2019-07-16 14:54:19,329 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:54:19
+ 
+
+ 
+记录时间：2019-07-16 14:54:27,273 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:54:27
+ 
+
+ 
+记录时间：2019-07-16 14:54:27,273 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:54:27
+ 
+
+ 
+记录时间：2019-07-16 14:54:35,177 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:54:35
+ 
+
+ 
+记录时间：2019-07-16 14:54:35,178 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:54:35
+ 
+
+ 
+记录时间：2019-07-16 14:54:43,363 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:54:43
+ 
+
+ 
+记录时间：2019-07-16 14:54:43,365 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:54:43
+ 
+
+ 
+记录时间：2019-07-16 14:54:51,165 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:54:51
+ 
+
+ 
+记录时间：2019-07-16 14:54:51,166 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:54:51
+ 
+
+ 
+记录时间：2019-07-16 14:55:00,929 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:55:00
+ 
+
+ 
+记录时间：2019-07-16 14:55:00,929 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:55:00
+ 
+
+ 
+记录时间：2019-07-16 14:55:09,362 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:55:09
+ 
+
+ 
+记录时间：2019-07-16 14:55:09,362 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:55:09
+ 
+
+ 
+记录时间：2019-07-16 14:55:18,126 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:55:18
+ 
+
+ 
+记录时间：2019-07-16 14:55:18,126 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:55:18
+ 
+
+ 
+记录时间：2019-07-16 14:55:25,301 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:55:25
+ 
+
+ 
+记录时间：2019-07-16 14:55:25,301 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:55:25
+ 
+
+ 
+记录时间：2019-07-16 14:55:31,878 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:55:31
+ 
+
+ 
+记录时间：2019-07-16 14:55:31,879 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:55:31
+ 
+
+ 
+记录时间：2019-07-16 14:55:38,417 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:55:38
+ 
+
+ 
+记录时间：2019-07-16 14:55:38,418 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:55:38
+ 
+
+ 
+记录时间：2019-07-16 14:55:46,870 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:55:46
+ 
+
+ 
+记录时间：2019-07-16 14:55:46,870 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:55:46
+ 
+
+ 
+记录时间：2019-07-16 14:55:54,732 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:55:54
+ 
+
+ 
+记录时间：2019-07-16 14:55:54,732 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:55:54
+ 
+
+ 
+记录时间：2019-07-16 14:56:03,792 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:56:03
+ 
+
+ 
+记录时间：2019-07-16 14:56:03,792 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:56:03
+ 
+
+ 
+记录时间：2019-07-16 14:56:10,675 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:56:10
+ 
+
+ 
+记录时间：2019-07-16 14:56:10,989 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:56:10
+ 
+
+ 
+记录时间：2019-07-16 14:56:17,702 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:56:17
+ 
+
+ 
+记录时间：2019-07-16 14:56:17,702 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:56:17
+ 
+
+ 
+记录时间：2019-07-16 14:56:24,237 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:56:24
+ 
+
+ 
+记录时间：2019-07-16 14:56:24,238 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:56:24
+ 
+
+ 
+记录时间：2019-07-16 14:56:30,873 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:56:30
+ 
+
+ 
+记录时间：2019-07-16 14:56:30,873 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:56:30
+ 
+
+ 
+记录时间：2019-07-16 14:56:38,407 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:56:38
+ 
+
+ 
+记录时间：2019-07-16 14:56:38,407 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:56:38
+ 
+
+ 
+记录时间：2019-07-16 14:56:46,319 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:56:46
+ 
+
+ 
+记录时间：2019-07-16 14:56:46,319 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:56:46
+ 
+
+ 
+记录时间：2019-07-16 14:56:53,546 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:56:53
+ 
+
+ 
+记录时间：2019-07-16 14:56:53,546 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:56:53
+ 
+
+ 
+记录时间：2019-07-16 14:57:02,764 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:57:02
+ 
+
+ 
+记录时间：2019-07-16 14:57:02,765 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:57:02
+ 
+
+ 
+记录时间：2019-07-16 14:57:10,519 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:57:10
+ 
+
+ 
+记录时间：2019-07-16 14:57:10,520 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:57:10
+ 
+
+ 
+记录时间：2019-07-16 14:57:18,989 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:57:18
+ 
+
+ 
+记录时间：2019-07-16 14:57:18,989 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:57:18
+ 
+
+ 
+记录时间：2019-07-16 14:57:26,260 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:57:26
+ 
+
+ 
+记录时间：2019-07-16 14:57:26,260 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:57:26
+ 
+
+ 
+记录时间：2019-07-16 14:57:34,159 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:57:34
+ 
+
+ 
+记录时间：2019-07-16 14:57:34,160 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:57:34
+ 
+
+ 
+记录时间：2019-07-16 14:57:42,321 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:57:42
+ 
+
+ 
+记录时间：2019-07-16 14:57:42,322 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:57:42
+ 
+
+ 
+记录时间：2019-07-16 14:57:51,367 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:57:51
+ 
+
+ 
+记录时间：2019-07-16 14:57:51,368 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:57:51
+ 
+
+ 
+记录时间：2019-07-16 14:58:01,480 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:58:01
+ 
+
+ 
+记录时间：2019-07-16 14:58:01,480 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:58:01
+ 
+
+ 
+记录时间：2019-07-16 14:58:08,853 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:58:08
+ 
+
+ 
+记录时间：2019-07-16 14:58:08,854 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:58:08
+ 
+
+ 
+记录时间：2019-07-16 14:58:17,257 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:58:17
+ 
+
+ 
+记录时间：2019-07-16 14:58:17,257 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:58:17
+ 
+
+ 
+记录时间：2019-07-16 14:58:24,421 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:58:24
+ 
+
+ 
+记录时间：2019-07-16 14:58:24,422 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:58:24
+ 
+
+ 
+记录时间：2019-07-16 14:58:31,270 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:58:31
+ 
+
+ 
+记录时间：2019-07-16 14:58:31,270 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:58:31
+ 
+
+ 
+记录时间：2019-07-16 14:58:39,623 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:58:39
+ 
+
+ 
+记录时间：2019-07-16 14:58:39,623 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:58:39
+ 
+
+ 
+记录时间：2019-07-16 14:58:47,143 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:58:47
+ 
+
+ 
+记录时间：2019-07-16 14:58:47,143 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:58:47
+ 
+
+ 
+记录时间：2019-07-16 14:58:54,529 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:58:54
+ 
+
+ 
+记录时间：2019-07-16 14:58:54,529 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:58:54
+ 
+
+ 
+记录时间：2019-07-16 14:59:02,299 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:59:02
+ 
+
+ 
+记录时间：2019-07-16 14:59:02,299 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:59:02
+ 
+
+ 
+记录时间：2019-07-16 14:59:10,362 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:59:10
+ 
+
+ 
+记录时间：2019-07-16 14:59:10,362 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:59:10
+ 
+
+ 
+记录时间：2019-07-16 14:59:20,676 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:59:20
+ 
+
+ 
+记录时间：2019-07-16 14:59:20,676 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:59:20
+ 
+
+ 
+记录时间：2019-07-16 14:59:28,661 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:59:28
+ 
+
+ 
+记录时间：2019-07-16 14:59:28,661 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:59:28
+ 
+
+ 
+记录时间：2019-07-16 14:59:36,654 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:59:36
+ 
+
+ 
+记录时间：2019-07-16 14:59:36,655 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:59:36
+ 
+
+ 
+记录时间：2019-07-16 14:59:46,271 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:59:46
+ 
+
+ 
+记录时间：2019-07-16 14:59:46,271 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:59:46
+ 
+
+ 
+记录时间：2019-07-16 14:59:54,371 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 14:59:54
+ 
+
+ 
+记录时间：2019-07-16 14:59:54,371 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 14:59:54
+ 
+
+ 
+记录时间：2019-07-16 15:00:04,015 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:00:04
+ 
+
+ 
+记录时间：2019-07-16 15:00:04,016 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:00:04
+ 
+
+ 
+记录时间：2019-07-16 15:00:11,812 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:00:11
+ 
+
+ 
+记录时间：2019-07-16 15:00:11,813 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:00:11
+ 
+
+ 
+记录时间：2019-07-16 15:00:19,793 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:00:19
+ 
+
+ 
+记录时间：2019-07-16 15:00:19,794 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:00:19
+ 
+
+ 
+记录时间：2019-07-16 15:00:27,463 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:00:27
+ 
+
+ 
+记录时间：2019-07-16 15:00:27,464 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:00:27
+ 
+
+ 
+记录时间：2019-07-16 15:00:35,352 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:00:35
+ 
+
+ 
+记录时间：2019-07-16 15:00:35,353 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:00:35
+ 
+
+ 
+记录时间：2019-07-16 15:00:43,486 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:00:43
+ 
+
+ 
+记录时间：2019-07-16 15:00:43,487 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:00:43
+ 
+
+ 
+记录时间：2019-07-16 15:00:50,859 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:00:50
+ 
+
+ 
+记录时间：2019-07-16 15:00:50,859 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:00:50
+ 
+
+ 
+记录时间：2019-07-16 15:01:00,101 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:01:00
+ 
+
+ 
+记录时间：2019-07-16 15:01:00,101 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:01:00
+ 
+
+ 
+记录时间：2019-07-16 15:01:08,372 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:01:08
+ 
+
+ 
+记录时间：2019-07-16 15:01:08,372 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:01:08
+ 
+
+ 
+记录时间：2019-07-16 15:01:16,140 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:01:16
+ 
+
+ 
+记录时间：2019-07-16 15:01:16,140 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:01:16
+ 
+
+ 
+记录时间：2019-07-16 15:01:23,372 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:01:23
+ 
+
+ 
+记录时间：2019-07-16 15:01:23,372 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:01:23
+ 
+
+ 
+记录时间：2019-07-16 15:01:30,359 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:01:30
+ 
+
+ 
+记录时间：2019-07-16 15:01:30,360 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:01:30
+ 
+
+ 
+记录时间：2019-07-16 15:01:38,204 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:01:38
+ 
+
+ 
+记录时间：2019-07-16 15:01:38,204 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:01:38
+ 
+
+ 
+记录时间：2019-07-16 15:01:46,792 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:01:46
+ 
+
+ 
+记录时间：2019-07-16 15:01:46,792 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:01:46
+ 
+
+ 
+记录时间：2019-07-16 15:01:54,491 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:01:54
+ 
+
+ 
+记录时间：2019-07-16 15:01:54,491 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:01:54
+ 
+
+ 
+记录时间：2019-07-16 15:02:02,037 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:02:02
+ 
+
+ 
+记录时间：2019-07-16 15:02:02,038 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:02:02
+ 
+
+ 
+记录时间：2019-07-16 15:02:09,956 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:02:09
+ 
+
+ 
+记录时间：2019-07-16 15:02:09,956 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:02:09
+ 
+
+ 
+记录时间：2019-07-16 15:02:18,369 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:02:18
+ 
+
+ 
+记录时间：2019-07-16 15:02:18,369 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:02:18
+ 
+
+ 
+记录时间：2019-07-16 15:02:25,992 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:02:25
+ 
+
+ 
+记录时间：2019-07-16 15:02:25,993 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:02:25
+ 
+
+ 
+记录时间：2019-07-16 15:02:33,799 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:02:33
+ 
+
+ 
+记录时间：2019-07-16 15:02:33,799 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:02:33
+ 
+
+ 
+记录时间：2019-07-16 15:02:42,306 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:02:42
+ 
+
+ 
+记录时间：2019-07-16 15:02:42,307 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:02:42
+ 
+
+ 
+记录时间：2019-07-16 15:02:49,962 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:02:49
+ 
+
+ 
+记录时间：2019-07-16 15:02:49,962 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:02:49
+ 
+
+ 
+记录时间：2019-07-16 15:02:59,778 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:02:59
+ 
+
+ 
+记录时间：2019-07-16 15:02:59,779 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:02:59
+ 
+
+ 
+记录时间：2019-07-16 15:03:07,643 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:03:07
+ 
+
+ 
+记录时间：2019-07-16 15:03:07,643 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:03:07
+ 
+
+ 
+记录时间：2019-07-16 15:03:15,579 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:03:15
+ 
+
+ 
+记录时间：2019-07-16 15:03:15,580 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:03:15
+ 
+
+ 
+记录时间：2019-07-16 15:03:23,437 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:03:23
+ 
+
+ 
+记录时间：2019-07-16 15:03:23,437 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:03:23
+ 
+
+ 
+记录时间：2019-07-16 15:03:29,866 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:03:29
+ 
+
+ 
+记录时间：2019-07-16 15:03:29,866 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:03:29
+ 
+
+ 
+记录时间：2019-07-16 15:03:37,580 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:03:37
+ 
+
+ 
+记录时间：2019-07-16 15:03:37,581 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:03:37
+ 
+
+ 
+记录时间：2019-07-16 15:03:45,520 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:03:45
+ 
+
+ 
+记录时间：2019-07-16 15:03:45,520 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:03:45
+ 
+
+ 
+记录时间：2019-07-16 15:03:54,069 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:03:54
+ 
+
+ 
+记录时间：2019-07-16 15:03:54,070 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:03:54
+ 
+
+ 
+记录时间：2019-07-16 15:04:07,900 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:04:07
+ 
+
+ 
+记录时间：2019-07-16 15:04:07,900 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:04:07
+ 
+
+ 
+记录时间：2019-07-16 15:04:20,118 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:04:20
+ 
+
+ 
+记录时间：2019-07-16 15:04:20,118 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:04:20
+ 
+
+ 
+记录时间：2019-07-16 15:04:27,237 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:04:27
+ 
+
+ 
+记录时间：2019-07-16 15:04:27,238 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:04:27
+ 
+
+ 
+记录时间：2019-07-16 15:04:35,386 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:04:35
+ 
+
+ 
+记录时间：2019-07-16 15:04:35,387 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:04:35
+ 
+
+ 
+记录时间：2019-07-16 15:04:43,336 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:04:43
+ 
+
+ 
+记录时间：2019-07-16 15:04:43,337 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:04:43
+ 
+
+ 
+记录时间：2019-07-16 15:04:51,039 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:04:51
+ 
+
+ 
+记录时间：2019-07-16 15:04:51,040 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:04:51
+ 
+
+ 
+记录时间：2019-07-16 15:05:00,416 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:05:00
+ 
+
+ 
+记录时间：2019-07-16 15:05:00,417 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:05:00
+ 
+
+ 
+记录时间：2019-07-16 15:05:08,617 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:05:08
+ 
+
+ 
+记录时间：2019-07-16 15:05:08,618 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:05:08
+ 
+
+ 
+记录时间：2019-07-16 15:05:15,922 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:05:15
+ 
+
+ 
+记录时间：2019-07-16 15:05:15,923 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:05:15
+ 
+
+ 
+记录时间：2019-07-16 15:05:24,571 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:05:24
+ 
+
+ 
+记录时间：2019-07-16 15:05:24,573 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:05:24
+ 
+
+ 
+记录时间：2019-07-16 15:05:33,664 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:05:33
+ 
+
+ 
+记录时间：2019-07-16 15:05:33,664 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:05:33
+ 
+
+ 
+记录时间：2019-07-16 15:05:42,112 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:05:42
+ 
+
+ 
+记录时间：2019-07-16 15:05:42,112 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:05:42
+ 
+
+ 
+记录时间：2019-07-16 15:05:48,898 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:05:48
+ 
+
+ 
+记录时间：2019-07-16 15:05:48,898 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:05:48
+ 
+
+ 
+记录时间：2019-07-16 15:05:57,836 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:05:57
+ 
+
+ 
+记录时间：2019-07-16 15:05:57,836 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:05:57
+ 
+
+ 
+记录时间：2019-07-16 15:06:04,755 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:06:04
+ 
+
+ 
+记录时间：2019-07-16 15:06:04,756 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:06:04
+ 
+
+ 
+记录时间：2019-07-16 15:06:12,152 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:06:12
+ 
+
+ 
+记录时间：2019-07-16 15:06:12,152 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:06:12
+ 
+
+ 
+记录时间：2019-07-16 15:06:20,076 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:06:20
+ 
+
+ 
+记录时间：2019-07-16 15:06:20,076 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:06:20
+ 
+
+ 
+记录时间：2019-07-16 15:06:27,161 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:06:27
+ 
+
+ 
+记录时间：2019-07-16 15:06:27,162 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:06:27
+ 
+
+ 
+记录时间：2019-07-16 15:06:34,505 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:06:34
+ 
+
+ 
+记录时间：2019-07-16 15:06:34,505 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:06:34
+ 
+
+ 
+记录时间：2019-07-16 15:06:41,665 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:06:41
+ 
+
+ 
+记录时间：2019-07-16 15:06:41,665 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:06:41
+ 
+
+ 
+记录时间：2019-07-16 15:06:47,891 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:06:47
+ 
+
+ 
+记录时间：2019-07-16 15:06:47,892 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:06:47
+ 
+
+ 
+记录时间：2019-07-16 15:06:54,389 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:06:54
+ 
+
+ 
+记录时间：2019-07-16 15:06:54,389 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:06:54
+ 
+
+ 
+记录时间：2019-07-16 15:07:01,172 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:07:01
+ 
+
+ 
+记录时间：2019-07-16 15:07:01,172 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:07:01
+ 
+
+ 
+记录时间：2019-07-16 15:07:07,569 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:07:07
+ 
+
+ 
+记录时间：2019-07-16 15:07:07,569 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:07:07
+ 
+
+ 
+记录时间：2019-07-16 15:07:15,949 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:07:15
+ 
+
+ 
+记录时间：2019-07-16 15:07:15,949 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:07:15
+ 
+
+ 
+记录时间：2019-07-16 15:07:23,050 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:07:23
+ 
+
+ 
+记录时间：2019-07-16 15:07:23,050 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:07:23
+ 
+
+ 
+记录时间：2019-07-16 15:07:30,370 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:07:30
+ 
+
+ 
+记录时间：2019-07-16 15:07:30,371 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:07:30
+ 
+
+ 
+记录时间：2019-07-16 15:07:37,381 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:07:37
+ 
+
+ 
+记录时间：2019-07-16 15:07:37,381 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:07:37
+ 
+
+ 
+记录时间：2019-07-16 15:07:44,945 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:07:44
+ 
+
+ 
+记录时间：2019-07-16 15:07:44,946 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:07:44
+ 
+
+ 
+记录时间：2019-07-16 15:07:51,887 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:07:51
+ 
+
+ 
+记录时间：2019-07-16 15:07:51,887 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:07:51
+ 
+
+ 
+记录时间：2019-07-16 15:08:01,559 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:08:01
+ 
+
+ 
+记录时间：2019-07-16 15:08:01,559 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:08:01
+ 
+
+ 
+记录时间：2019-07-16 15:08:09,133 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:08:09
+ 
+
+ 
+记录时间：2019-07-16 15:08:09,133 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:08:09
+ 
+
+ 
+记录时间：2019-07-16 15:08:16,238 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:08:16
+ 
+
+ 
+记录时间：2019-07-16 15:08:16,239 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:08:16
+ 
+
+ 
+记录时间：2019-07-16 15:08:22,733 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:08:22
+ 
+
+ 
+记录时间：2019-07-16 15:08:22,733 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:08:22
+ 
+
+ 
+记录时间：2019-07-16 15:08:29,677 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:08:29
+ 
+
+ 
+记录时间：2019-07-16 15:08:29,677 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:08:29
+ 
+
+ 
+记录时间：2019-07-16 15:08:35,934 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:08:35
+ 
+
+ 
+记录时间：2019-07-16 15:08:35,935 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:08:35
+ 
+
+ 
+记录时间：2019-07-16 15:08:42,818 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:08:42
+ 
+
+ 
+记录时间：2019-07-16 15:08:42,818 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:08:42
+ 
+
+ 
+记录时间：2019-07-16 15:08:49,311 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:08:49
+ 
+
+ 
+记录时间：2019-07-16 15:08:49,312 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:08:49
+ 
+
+ 
+记录时间：2019-07-16 15:08:55,631 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:08:55
+ 
+
+ 
+记录时间：2019-07-16 15:08:55,631 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:08:55
+ 
+
+ 
+记录时间：2019-07-16 15:09:03,374 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:09:03
+ 
+
+ 
+记录时间：2019-07-16 15:09:03,375 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:09:03
+ 
+
+ 
+记录时间：2019-07-16 15:09:11,194 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:09:11
+ 
+
+ 
+记录时间：2019-07-16 15:09:11,195 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:09:11
+ 
+
+ 
+记录时间：2019-07-16 15:09:18,800 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:09:18
+ 
+
+ 
+记录时间：2019-07-16 15:09:18,801 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:09:18
+ 
+
+ 
+记录时间：2019-07-16 15:09:25,908 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:09:25
+ 
+
+ 
+记录时间：2019-07-16 15:09:25,909 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:09:25
+ 
+
+ 
+记录时间：2019-07-16 15:09:33,484 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:09:33
+ 
+
+ 
+记录时间：2019-07-16 15:09:33,485 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:09:33
+ 
+
+ 
+记录时间：2019-07-16 15:09:41,657 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:09:41
+ 
+
+ 
+记录时间：2019-07-16 15:09:41,658 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:09:41
+ 
+
+ 
+记录时间：2019-07-16 15:09:49,726 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:09:49
+ 
+
+ 
+记录时间：2019-07-16 15:09:49,727 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:09:49
+ 
+
+ 
+记录时间：2019-07-16 15:09:59,578 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:09:59
+ 
+
+ 
+记录时间：2019-07-16 15:09:59,579 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:09:59
+ 
+
+ 
+记录时间：2019-07-16 15:10:07,788 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:10:07
+ 
+
+ 
+记录时间：2019-07-16 15:10:07,789 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:10:07
+ 
+
+ 
+记录时间：2019-07-16 15:10:15,688 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:10:15
+ 
+
+ 
+记录时间：2019-07-16 15:10:15,689 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:10:15
+ 
+
+ 
+记录时间：2019-07-16 15:10:23,903 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:10:23
+ 
+
+ 
+记录时间：2019-07-16 15:10:23,904 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:10:23
+ 
+
+ 
+记录时间：2019-07-16 15:10:31,607 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:10:31
+ 
+
+ 
+记录时间：2019-07-16 15:10:31,608 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:10:31
+ 
+
+ 
+记录时间：2019-07-16 15:10:39,257 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:10:39
+ 
+
+ 
+记录时间：2019-07-16 15:10:39,258 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:10:39
+ 
+
+ 
+记录时间：2019-07-16 15:10:47,243 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:10:47
+ 
+
+ 
+记录时间：2019-07-16 15:10:47,244 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:10:47
+ 
+
+ 
+记录时间：2019-07-16 15:10:53,847 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:10:53
+ 
+
+ 
+记录时间：2019-07-16 15:10:53,847 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:10:53
+ 
+
+ 
+记录时间：2019-07-16 15:11:01,547 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:11:01
+ 
+
+ 
+记录时间：2019-07-16 15:11:01,547 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:11:01
+ 
+
+ 
+记录时间：2019-07-16 15:11:08,922 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:11:08
+ 
+
+ 
+记录时间：2019-07-16 15:11:08,923 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:11:08
+ 
+
+ 
+记录时间：2019-07-16 15:11:16,926 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:11:16
+ 
+
+ 
+记录时间：2019-07-16 15:11:16,927 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:11:16
+ 
+
+ 
+记录时间：2019-07-16 15:11:24,917 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:11:24
+ 
+
+ 
+记录时间：2019-07-16 15:11:24,918 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:11:24
+ 
+
+ 
+记录时间：2019-07-16 15:11:32,692 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:11:32
+ 
+
+ 
+记录时间：2019-07-16 15:11:32,693 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:11:32
+ 
+
+ 
+记录时间：2019-07-16 15:11:41,432 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:11:41
+ 
+
+ 
+记录时间：2019-07-16 15:11:41,432 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:11:41
+ 
+
+ 
+记录时间：2019-07-16 15:11:49,386 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:11:49
+ 
+
+ 
+记录时间：2019-07-16 15:11:49,386 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:11:49
+ 
+
+ 
+记录时间：2019-07-16 15:11:59,060 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:11:59
+ 
+
+ 
+记录时间：2019-07-16 15:11:59,061 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:11:59
+ 
+
+ 
+记录时间：2019-07-16 15:12:06,510 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:12:06
+ 
+
+ 
+记录时间：2019-07-16 15:12:06,511 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:12:06
+ 
+
+ 
+记录时间：2019-07-16 15:12:13,922 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:12:13
+ 
+
+ 
+记录时间：2019-07-16 15:12:13,923 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:12:13
+ 
+
+ 
+记录时间：2019-07-16 15:12:20,884 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:12:20
+ 
+
+ 
+记录时间：2019-07-16 15:12:20,884 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:12:20
+ 
+
+ 
+记录时间：2019-07-16 15:12:29,380 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:12:29
+ 
+
+ 
+记录时间：2019-07-16 15:12:29,380 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:12:29
+ 
+
+ 
+记录时间：2019-07-16 15:12:36,150 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:12:36
+ 
+
+ 
+记录时间：2019-07-16 15:12:36,150 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:12:36
+ 
+
+ 
+记录时间：2019-07-16 15:12:44,186 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:12:44
+ 
+
+ 
+记录时间：2019-07-16 15:12:44,187 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:12:44
+ 
+
+ 
+记录时间：2019-07-16 15:12:53,261 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:12:53
+ 
+
+ 
+记录时间：2019-07-16 15:12:53,261 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:12:53
+ 
+
+ 
+记录时间：2019-07-16 15:13:02,842 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:13:02
+ 
+
+ 
+记录时间：2019-07-16 15:13:02,843 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:13:02
+ 
+
+ 
+记录时间：2019-07-16 15:13:10,453 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:13:10
+ 
+
+ 
+记录时间：2019-07-16 15:13:10,453 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:13:10
+ 
+
+ 
+记录时间：2019-07-16 15:13:17,279 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:13:17
+ 
+
+ 
+记录时间：2019-07-16 15:13:17,279 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:13:17
+ 
+
+ 
+记录时间：2019-07-16 15:13:23,756 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:13:23
+ 
+
+ 
+记录时间：2019-07-16 15:13:23,756 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:13:23
+ 
+
+ 
+记录时间：2019-07-16 15:13:30,694 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:13:30
+ 
+
+ 
+记录时间：2019-07-16 15:13:30,694 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:13:30
+ 
+
+ 
+记录时间：2019-07-16 15:13:36,869 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:13:36
+ 
+
+ 
+记录时间：2019-07-16 15:13:36,870 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:13:36
+ 
+
+ 
+记录时间：2019-07-16 15:13:43,984 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:13:43
+ 
+
+ 
+记录时间：2019-07-16 15:13:43,985 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:13:43
+ 
+
+ 
+记录时间：2019-07-16 15:13:51,780 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:13:51
+ 
+
+ 
+记录时间：2019-07-16 15:13:51,780 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:13:51
+ 
+
+ 
+记录时间：2019-07-16 15:13:59,880 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:13:59
+ 
+
+ 
+记录时间：2019-07-16 15:13:59,880 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:13:59
+ 
+
+ 
+记录时间：2019-07-16 15:14:06,811 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:14:06
+ 
+
+ 
+记录时间：2019-07-16 15:14:06,811 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:14:06
+ 
+
+ 
+记录时间：2019-07-16 15:14:13,411 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:14:13
+ 
+
+ 
+记录时间：2019-07-16 15:14:13,412 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:14:13
+ 
+
+ 
+记录时间：2019-07-16 15:14:20,371 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:14:20
+ 
+
+ 
+记录时间：2019-07-16 15:14:20,371 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:14:20
+ 
+
+ 
+记录时间：2019-07-16 15:14:26,544 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:14:26
+ 
+
+ 
+记录时间：2019-07-16 15:14:26,544 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:14:26
+ 
+
+ 
+记录时间：2019-07-16 15:14:33,186 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:14:33
+ 
+
+ 
+记录时间：2019-07-16 15:14:33,186 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:14:33
+ 
+
+ 
+记录时间：2019-07-16 15:14:39,211 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:14:39
+ 
+
+ 
+记录时间：2019-07-16 15:14:39,211 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:14:39
+ 
+
+ 
+记录时间：2019-07-16 15:14:46,239 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:14:46
+ 
+
+ 
+记录时间：2019-07-16 15:14:46,239 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:14:46
+ 
+
+ 
+记录时间：2019-07-16 15:14:53,326 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:14:53
+ 
+
+ 
+记录时间：2019-07-16 15:14:53,326 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:14:53
+ 
+
+ 
+记录时间：2019-07-16 15:15:01,318 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:15:01
+ 
+
+ 
+记录时间：2019-07-16 15:15:01,318 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:15:01
+ 
+
+ 
+记录时间：2019-07-16 15:15:08,031 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:15:08
+ 
+
+ 
+记录时间：2019-07-16 15:15:08,031 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:15:08
+ 
+
+ 
+记录时间：2019-07-16 15:15:14,207 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:15:14
+ 
+
+ 
+记录时间：2019-07-16 15:15:14,207 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:15:14
+ 
+
+ 
+记录时间：2019-07-16 15:15:21,498 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:15:21
+ 
+
+ 
+记录时间：2019-07-16 15:15:21,498 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:15:21
+ 
+
+ 
+记录时间：2019-07-16 15:15:28,754 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:15:28
+ 
+
+ 
+记录时间：2019-07-16 15:15:28,754 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:15:28
+ 
+
+ 
+记录时间：2019-07-16 15:15:35,088 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:15:35
+ 
+
+ 
+记录时间：2019-07-16 15:15:35,088 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:15:35
+ 
+
+ 
+记录时间：2019-07-16 15:15:41,736 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:15:41
+ 
+
+ 
+记录时间：2019-07-16 15:15:41,737 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:15:41
+ 
+
+ 
+记录时间：2019-07-16 15:15:50,810 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:15:50
+ 
+
+ 
+记录时间：2019-07-16 15:15:50,811 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:15:50
+ 
+
+ 
+记录时间：2019-07-16 15:16:00,839 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:16:00
+ 
+
+ 
+记录时间：2019-07-16 15:16:00,840 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:16:00
+ 
+
+ 
+记录时间：2019-07-16 15:16:09,058 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:16:09
+ 
+
+ 
+记录时间：2019-07-16 15:16:09,059 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:16:09
+ 
+
+ 
+记录时间：2019-07-16 15:16:17,571 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:16:17
+ 
+
+ 
+记录时间：2019-07-16 15:16:17,571 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:16:17
+ 
+
+ 
+记录时间：2019-07-16 15:16:25,998 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:16:25
+ 
+
+ 
+记录时间：2019-07-16 15:16:25,999 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:16:25
+ 
+
+ 
+记录时间：2019-07-16 15:16:33,717 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:16:33
+ 
+
+ 
+记录时间：2019-07-16 15:16:33,718 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 15:16:33
+ 
+
+ 
+记录时间：2019-07-16 15:16:42,072 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入成功!执行完成时间：2019-07-16 15:16:42
+ 
+
+ 
+记录时间：2019-07-16 17:20:22,065 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 17:20:22
+ 
+
+ 
+记录时间：2019-07-16 17:21:08,909 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：服务写入开始!开始执行时间：2019-07-16 17:21:08
+ 

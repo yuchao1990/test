@@ -1,0 +1,1904 @@
+
+ 
+记录时间：2019-07-12 14:20:15,127 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,172 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,172 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,172 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,173 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,173 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,173 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,174 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,174 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,174 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,174 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：116289.0625
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,174 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,174 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：69719.7265625
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,174 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,175 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：80849.9145507067
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,175 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：33957
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,175 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,175 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：106700
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,175 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：33263.671875
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,175 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：57681.640625
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,175 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,176 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,176 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：79030
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,176 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,176 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：58180
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,176 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：184800.033569329
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,176 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,176 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：34057.8369139954
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,177 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：105595.703125
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,177 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：157322.021485001
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,177 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：107644.042969003
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,177 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：35420
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,177 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：108895.568847001
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,177 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：31600.3417969011
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,177 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：191800
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,178 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：74580
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,178 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：31498.7182616964
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,178 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,178 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,178 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：68200
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,178 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：18150.1007080004
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,178 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：143728
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,178 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：14420
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,179 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：16319.8242186997
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,179 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:20:15,179 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,310 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,332 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,332 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,332 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,332 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,332 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,333 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,333 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,333 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,333 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,333 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：116289.0625
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,333 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,334 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：70560.546875
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,334 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,334 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：80849.9145507067
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,334 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：33957
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,334 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,334 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：106700
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,334 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：33263.671875
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,342 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：57681.640625
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,342 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,342 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,343 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：79030
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,343 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,343 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：58180
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,343 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：184800.033569329
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,343 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,343 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：34057.8369139954
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,344 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：110000
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,344 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：157322.021485001
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,344 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：107644.042969003
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,344 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：35420
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,344 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：108895.568847001
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,344 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：31600.3417969011
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,344 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：191800
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,344 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：74580
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,345 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：31498.7182616964
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,345 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,345 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,345 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：68200
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,345 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：18150.1007080004
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,345 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：143728
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,345 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：14420
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,346 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：16560.0585936997
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,346 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:21:02,346 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:04,992 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,025 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,025 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,025 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,026 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,026 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,026 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,026 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,026 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,026 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,026 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：116289.0625
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,026 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,027 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：71397.9492186978
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,027 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,027 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：81725.769043006
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,027 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：33957
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,027 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,027 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：106700
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,028 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：33906.25
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,028 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：57681.640625
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,028 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,028 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,028 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：79030
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,028 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,028 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：58180
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,029 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：193600.23498535
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,029 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,029 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：35244.5800780952
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,029 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：114404.296875
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,029 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：165593.261718988
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,029 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：110406.738280997
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,029 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：36400
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,030 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：112198.791503996
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,030 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：31600.3417969011
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,030 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：191800
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,030 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：79200
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,030 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：31498.7182616964
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,031 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,031 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,031 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：68200
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,031 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：18150.1007080004
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,031 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：143728
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,031 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：14420
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,032 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：16680.1757811997
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,032 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:26:05,032 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,022 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,045 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,046 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,046 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,046 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,047 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,047 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,047 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,047 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,047 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,048 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：116289.0625
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,048 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,048 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：71397.9492186978
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,048 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,048 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：81725.769043006
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,048 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：33957
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,049 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,049 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：106700
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,049 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：33906.25
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,049 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：57681.640625
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,049 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,049 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,049 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：79030
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,050 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,050 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：58180
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,050 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：193600.23498535
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,050 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,050 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：35640.9667968005
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,050 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：114404.296875
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,050 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：165593.261718988
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,051 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：110406.738280997
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,051 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：36400
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,051 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：112198.791503996
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,051 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：31600.3417969011
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,051 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：191800
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,051 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：79200
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,051 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：31498.7182616964
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,052 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,052 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,052 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：68200
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,052 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：18150.1007080004
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,052 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：143728
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,052 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：14420
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,052 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：16680.1757811997
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,053 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 14:27:27,053 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,585 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,610 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,610 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,610 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,611 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,611 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,611 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,611 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,611 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,611 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,611 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：130968.75
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,612 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,612 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：74477.5390625
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,612 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,612 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：82951.9653321058
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,612 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：38367
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,612 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,612 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：117230
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,613 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：38923.828125
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,613 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：62166.015625
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,613 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,613 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,613 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：84100
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,613 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,613 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：65090
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,613 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：197999.91607666
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,613 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,613 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：39203.6132811978
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,613 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：127603.759765998
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,613 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：168355.957030982
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,613 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：113161.010742009
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,613 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：39200
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,614 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：125401.611327991
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,614 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：33400.8789063022
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,614 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：210000
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,614 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：81512
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,614 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：31498.7182616964
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,614 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,615 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,615 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：77000
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,615 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：21450.8056640998
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,615 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：152428
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,615 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：14980
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,615 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：17160.6445311997
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,615 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 15:00:20,616 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：测试：0
+ 
+
+ 
+记录时间：2019-07-12 16:51:58,820 
+线程ID:[10] 
+日志级别：  DEBUG 
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：System.Data.SqlClient.SqlException (0x80131904): 列名 'WarningDate' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.<NonQuery>b__0(DbCommand t, DbCommandInterceptionContext`1 c)
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   在 System.Data.Entity.Internal.InterceptableDbCommand.ExecuteNonQuery()
+   在 System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass59.<ExecuteStoreCommand>b__58()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass59.<ExecuteStoreCommand>b__57()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteStoreCommand(TransactionalBehavior transactionalBehavior, String commandText, Object[] parameters)
+   在 System.Data.Entity.Internal.InternalContext.ExecuteSqlCommand(TransactionalBehavior transactionalBehavior, String sql, Object[] parameters)
+   在 System.Data.Entity.Database.ExecuteSqlCommand(TransactionalBehavior transactionalBehavior, String sql, Object[] parameters)
+   在 System.Data.Entity.Database.ExecuteSqlCommand(String sql, Object[] parameters)
+   在 UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor.Execute() 位置 D:\project\jxSVN\01PersonalArea\于超\demo\UnderPowerMonitorWindowsService\UnderPowerMonitorWindowsService\ComputeUnderPowerMonitor.cs:行号 34
+ClientConnectionId:9844e5d8-119d-49c3-8982-8b0c54ee4180
+Error Number:207,State:1,Class:16
+ 
+
+ 
+记录时间：2019-07-12 17:50:07,101 
+线程ID:[23] 
+日志级别：  DEBUG 
+出错类：UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor property: [(null)] - 
+错误描述：System.Data.SqlClient.SqlException (0x80131904): 列名 'WarningDate' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.<NonQuery>b__0(DbCommand t, DbCommandInterceptionContext`1 c)
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   在 System.Data.Entity.Internal.InterceptableDbCommand.ExecuteNonQuery()
+   在 System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass59.<ExecuteStoreCommand>b__58()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass59.<ExecuteStoreCommand>b__57()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteStoreCommand(TransactionalBehavior transactionalBehavior, String commandText, Object[] parameters)
+   在 System.Data.Entity.Internal.InternalContext.ExecuteSqlCommand(TransactionalBehavior transactionalBehavior, String sql, Object[] parameters)
+   在 System.Data.Entity.Database.ExecuteSqlCommand(TransactionalBehavior transactionalBehavior, String sql, Object[] parameters)
+   在 System.Data.Entity.Database.ExecuteSqlCommand(String sql, Object[] parameters)
+   在 UnderPowerMonitorWindowsService.ComputeUnderPowerMonitor.Execute() 位置 D:\project\jxSVN\01PersonalArea\于超\demo\UnderPowerMonitorWindowsService\UnderPowerMonitorWindowsService\ComputeUnderPowerMonitor.cs:行号 34
+ClientConnectionId:3692966f-fc46-4903-a832-9e744d5bccab
+Error Number:207,State:1,Class:16
+ 

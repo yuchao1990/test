@@ -1,0 +1,1 @@
+%~dp0installutil.exe /u %~dp0UnderPowerMonitorWindowsService.exe
